@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "description": "Claude Code skills registry — edit this file to add/remove skills",
+  "skills": [
+    {
+      "id": "ui-ux-pro-max-skill",
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "description": "UI/UX design intelligence: 67 styles, 161 palettes, font pairings, UX rules"
+    },
+    {
+      "id": "gsap-skills",
+      "repo": "greensock/gsap-skills",
+      "description": "GSAP animations: ScrollTrigger, plugins, React, timeline, performance"
+    },
+    {
+      "id": "cybersecurity-skills",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 cybersecurity skills: pentesting, DFIR, malware analysis, cloud security"
+    }
+  ],
+  "mcp_servers": [
+    {
+      "name": "magic",
+      "command": "npx",
+      "args": ["-y", "@21st-dev/magic@latest"],
+      "env_keys": ["API_KEY"],
+      "note": "Get API key from https://21st.dev — set via: export MAGIC_API_KEY=your_key"
+    }
+  ]
+}
