@@ -16,6 +16,31 @@
       "id": "cybersecurity-skills",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 cybersecurity skills: pentesting, DFIR, malware analysis, cloud security"
+    },
+    {
+      "id": "vercel-agent-skills",
+      "repo": "vercel-labs/claude-code-skills",
+      "description": "Vercel agent skills: React best practices, web design guidelines, composition patterns, view transitions"
+    },
+    {
+      "id": "mattpocock-skills",
+      "repo": "mattpocock/claude-code-skills",
+      "description": "Matt Pocock skills: TDD, improve codebase architecture, diagnose, prototype"
+    },
+    {
+      "id": "shadcn-ui",
+      "repo": "shadcn-ui/claude-code-skills",
+      "description": "shadcn/ui skill: components, theming, CLI, customization, MCP integration"
+    },
+    {
+      "id": "anthropics-skills",
+      "repo": "anthropics/claude-code-skills",
+      "description": "Anthropic official skills: webapp testing and more"
+    },
+    {
+      "id": "remotion-skills",
+      "repo": "remotion-dev/claude-code-skills",
+      "description": "Remotion skill: video rendering, animations, React-based video production"
     }
   ],
   "mcp_servers": [
